@@ -1,6 +1,6 @@
 # Hello World 👋
 
-![ViewCount](https://views.whatilearened.today/views/github/ashx404/ashx404.svg?cache=remove)
+
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
 
@@ -30,4 +30,4 @@
     <a href="mailto:ashishkhandelwal404@gmail.com"><img alt="Gmail" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/google-gmail.svg" title="Email" width="100" height="30" /></a> 
 </p>
 
-⭐️ From [ashx404](https://github.com/ashx404)
+⭐️ From [ashx404](https://github.com/ashx404) ![ViewCount](https://views.whatilearened.today/views/github/ashx404/ashx404.svg?cache=remove)
