@@ -1,7 +1,6 @@
 # Hello World 👋
 
-[[![Mail Badge](https://img.shields.io/badge/-ashishkhandelwal404@gmail.com@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashishkhandelwal404@gmail.com@gmail.com)](mailto:ashishkhandelwal404@gmail.com)
-![ViewCount](https://views.whatilearened.today/views/github/ashx404/ashx404.svg?cache=remove)
+[![Mail Badge](https://img.shields.io/badge/-ashishkhandelwal404@gmail.com@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashishkhandelwal404@gmail.com@gmail.com)](mailto:ashishkhandelwal404@gmail.com)
 
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
@@ -29,7 +28,8 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 <p align="center">
     <a href="https://www.linkedin.com/in/ashx404/"><img alt="Linkedin profile" title="Linkedin" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linkedin.svg" width="100" height="30" /></a>
-    <a href="mailto:ashishkhandelwal404@gmail.com"><img alt="Gmail" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/google-gmail.svg" title="Email" width="100" height="30" /></a>
+    <a href="mailto:ashishkhandelwal404@gmail.com"><img alt="Gmail" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/google-gmail.svg" title="Email" width="100" height="30" /></a> 
 </p>
+![ViewCount](https://views.whatilearened.today/views/github/ashx404/ashx404.svg?cache=remove)
 
 ⭐️ From [ashx404](https://github.com/ashx404)
