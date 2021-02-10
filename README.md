@@ -4,7 +4,7 @@
 
 ### I'm Aashish
 
-- 🔭 Bachelor of Technology in from Guru Gobind Singh Indraprastha University
+- 🔭 Bachelor of Technology from Guru Gobind Singh Indraprastha University
 - 💬 I am a Software Developer/Web Developer(Full stack) proficient in writing ,testing and deploying well maintained code using agile development methodologies.
 - 🌱 Interested in Cloud based technologies and Big Data 
 - ⚡ Fun fact: Love making fun projects 
