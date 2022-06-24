@@ -6,7 +6,7 @@
 
 - 🔭 Bachelor of Technology from Guru Gobind Singh Indraprastha University
 - 💬 I am a Software Developer/Web Developer(Full stack) proficient in writing ,testing and deploying well maintained code using agile development methodologies.
-- 🌱 Interested in Cloud based technologies and Big Data 
+- 🌱 Interested in Cloud based technologies and Rust
 - ⚡ Fun fact: Love making fun projects 
 
 ### Languages and Tools
